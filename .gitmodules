@@ -1,7 +1,7 @@
 [submodule "src/MOM6"]
 	path = src/MOM6
 	url = https://github.com/SMoorthi-emc/MOM6
-	branch = SM_May192020
+	branch = SM_Jul232020
 [submodule "src/mkmf"]
 	path = src/mkmf
 	url = https://github.com/SMoorthi-emc/mkmf
